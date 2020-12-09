@@ -1,0 +1,12 @@
+p {
+
+    background-color: #e6eef1;
+  }
+  .center {
+    position: absolute;
+    right: 15px;
+    width: 300px;
+    border: 3px solid hsl(90, 11%, 89%);
+    padding: 10px;
+  }
+ 
